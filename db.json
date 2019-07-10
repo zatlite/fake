@@ -1,0 +1,8 @@
+{
+    "methods": [
+        { "action": "GET", "url": "api/resource/{id}" },
+        { "action": "GET", "url": "api/resource/{parentId}/child/{id}" },
+        { "action": "PUT", "url": "api/resource/{id}" },
+        { "action": "DELETE", "url": "api/resource/{id}" }
+    ]
+}
